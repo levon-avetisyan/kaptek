@@ -20,7 +20,7 @@ export default function About() {
               Why Armenia?
             </p>
             <p className="mt-4 text-lg text-gray-500">
-              Armenia has emerged as a hidden gem for tech talent, with a strong engineering culture, excellent technical education, and high English proficiency.
+              Armenia has emerged as a  hidden gem for tech talent, with a strong engineering culture, excellent technical education, and high English proficiency.
             </p>
             <div className="mt-8">
               <ul className="space-y-4">
